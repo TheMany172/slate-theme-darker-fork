@@ -36,7 +36,7 @@ apply() {
     slate3="#4E5A61" \
     slate4="#CCCFD9" \
     slate5="#D7D8DB" \
-    slate6="#E6E7E8" \
+    slate6="#949595" \
     slate7="#7DAD81" \
     slate8="#AAC280" \
     slate9="#8A9C5A" \

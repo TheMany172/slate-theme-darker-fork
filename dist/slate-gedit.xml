@@ -8,8 +8,8 @@ Modified for slate-theme
 Copyright (c) 2020-present Alex Chvatal <yith@yuggoth.space>
 
 Project:    Slate gedit
-Version:    2.3.0
-Repository: https://github.com/yithian/slate-theme
+Version:    1.0.0
+Repository: https://github.com/TheMany172/slate-theme-darker-fork
 License:    MIT
 References:
   https://developer.gnome.org/gtksourceview/stable/style-reference.html
@@ -18,8 +18,8 @@ References:
   https://developer.gnome.org/gtksourceview/stable/GtkSourceStyleScheme.html
 -->
 <style-scheme id="slate-gedit" name="Slate" filename="slate.xml" version="1.0">
-  <author>Yithian</author>
-  <description>A theme with shady grey and mossy green highlights.</description>
+  <author>TheMany</author>
+  <description>A theme with shady darker grey and darker mossy green highlights.</description>
 
   <color name="slate0" value="#25282E" />
   <color name="slate1" value="#2A3033" />
@@ -28,7 +28,7 @@ References:
   <color name="slate3-brightened" value="#6E808C" />
   <color name="slate4" value="#CCCFD9" />
   <color name="slate5" value="#D7D8DB" />
-  <color name="slate6" value="#E6E7E8" />
+  <color name="slate6" value="#949595" />
 
   <color name="slate7" value="#7DAD81" />
   <color name="slate8" value="#AAC280" />
