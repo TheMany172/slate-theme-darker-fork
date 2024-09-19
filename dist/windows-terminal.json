@@ -1,7 +1,7 @@
         {
             "name": "slate",
             "background": "#25282E",
-            "foreground": "#949595",
+            "foreground": "#7c7d7d",
             "black": "#2A3033",
             "red": "#994E3F",
             "green": "#A9B9C7",
@@ -17,5 +17,5 @@
             "brightBlue": "#8A9C5A",
             "brightPurple": "#A094B3",
             "brightCyan": "#7DAD81",
-            "brightWhite": "#949595"
+            "brightWhite": "#7c7d7d"
         }
