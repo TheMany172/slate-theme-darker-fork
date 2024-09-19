@@ -1,7 +1,7 @@
 {
-  "name": "sn-theme-slate",
-  "description": "A theme with shady greys and mossy greens.",
-  "version": "v2.7.1",
+  "name": "sn-theme-darker-slate",
+  "description": "A theme with darker shady greys and darker mossy greens.",
+  "version": "v1.0.0",
   "license": "MIT",
   "devDependencies": {
     "grunt": "*",
@@ -16,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yithian/slate-theme.git"
+    "url": "https://github.com/TheMany172/slate-theme-darker-fork"
   }
 }
