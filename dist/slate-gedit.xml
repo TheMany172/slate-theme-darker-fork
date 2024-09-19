@@ -21,25 +21,25 @@ References:
   <author>Yithian</author>
   <description>A theme with shady grey and mossy green highlights.</description>
 
-  <color name="slate0" value="#2F333A" />
-  <color name="slate1" value="#353C40" />
-  <color name="slate2" value="#434F56" />
-  <color name="slate3" value="#59666E" />
+  <color name="slate0" value="#25282E" />
+  <color name="slate1" value="#2A3033" />
+  <color name="slate2" value="#3A444A" />
+  <color name="slate3" value="#4E5A61" />
   <color name="slate3-brightened" value="#6E808C" />
-  <color name="slate4" value="#D7DBE5" />
-  <color name="slate5" value="#E3E4E8" />
-  <color name="slate6" value="#F1F2F4" />
+  <color name="slate4" value="#CCCFD9" />
+  <color name="slate5" value="#D7D8DB" />
+  <color name="slate6" value="#E6E7E8" />
 
-  <color name="slate7" value="#86BB8A" />
-  <color name="slate8" value="#B4CE88" />
-  <color name="slate9" value="#95A861" />
-  <color name="slate10" value="#8C974E" />
+  <color name="slate7" value="#7DAD81" />
+  <color name="slate8" value="#AAC280" />
+  <color name="slate9" value="#8A9C5A" />
+  <color name="slate10" value="#808A48" />
 
-  <color name="slate11" value="#A55443" />
-  <color name="slate12" value="#D69643" />
-  <color name="slate13" value="#C3B113" />
-  <color name="slate14" value="#B5C6D4" />
-  <color name="slate15" value="#AA9DBE" />
+  <color name="slate11" value="#994E3F" />
+  <color name="slate12" value="#C98D3E" />
+  <color name="slate13" value="#B5A512" />
+  <color name="slate14" value="#A9B9C7" />
+  <color name="slate15" value="#A094B3" />
 
 <!--+- - - - - +
     + Settings +

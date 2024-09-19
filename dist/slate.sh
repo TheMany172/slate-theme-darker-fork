@@ -31,19 +31,19 @@ append_profile_uuid_to_list() {
 # @since 0.2.0
 apply() {
   local \
-    slate0="#2F333A" \
-    slate1="#353C40" \
-    slate3="#59666E" \
-    slate4="#D7DBE5" \
-    slate5="#E3E4E8" \
-    slate6="#F1F2F4" \
-    slate7="#86BB8A" \
-    slate8="#B4CE88" \
-    slate9="#95A861" \
-    slate11="#A55443" \
-    slate13="#C3B113" \
-    slate14="#B5C6D4" \
-    slate15="#AA9DBE"
+    slate0="#25282E" \
+    slate1="#2A3033" \
+    slate3="#4E5A61" \
+    slate4="#CCCFD9" \
+    slate5="#D7D8DB" \
+    slate6="#E6E7E8" \
+    slate7="#7DAD81" \
+    slate8="#AAC280" \
+    slate9="#8A9C5A" \
+    slate11="#994E3F" \
+    slate13="#B5A512" \
+    slate14="#A9B9C7" \
+    slate15="#A094B3"
   local \
     slate0_rgb="rgb(47,51,58)"
     slate1_rgb="rgb(53,60,64)"
