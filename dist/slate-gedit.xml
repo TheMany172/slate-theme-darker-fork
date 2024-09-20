@@ -111,12 +111,12 @@ References:
 
   <!--+- Headings -+-->
   <style name="def:heading0" foreground="slate8" />
-  <style name="def:heading1" use-style="def:keyword" />
-  <style name="def:heading2" use-style="def:keyword" />
-  <style name="def:heading3" use-style="def:keyword" />
-  <style name="def:heading4" use-style="def:keyword" />
-  <style name="def:heading5" use-style="def:keyword" />
-  <style name="def:heading6" use-style="def:keyword" />
+  <style name="def:heading1" use-style="def:heading0" />
+  <style name="def:heading2" use-style="def:heading0" />
+  <style name="def:heading3" use-style="def:heading0" />
+  <style name="def:heading4" use-style="def:heading0" />
+  <style name="def:heading5" use-style="def:heading0" />
+  <style name="def:heading6" use-style="def:heading0" />
 
   <!--+- Formats -+-->
   <style name="def:underlined" underline="true" />
