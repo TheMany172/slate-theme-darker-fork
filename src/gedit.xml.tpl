@@ -165,11 +165,11 @@ References:
   <style name="html:comment" use-style="def:comment" />
   <style name="html:dtd" use-style="def:shebang" />
   <style name="html:error" foreground="def:error" />
-  <style name="html:h1" use-style="text" />
-  <style name="html:h2" use-style="text" />
-  <style name="html:h3" use-style="text" />
-  <style name="html:h4" use-style="text" />
-  <style name="html:h5" use-style="text" />
+  <style name="html:h1" use-style="def:keyword" />
+  <style name="html:h2" use-style="def:keyword" />
+  <style name="html:h3" use-style="def:keyword" />
+  <style name="html:h4" use-style="def:keyword" />
+  <style name="html:h5" use-style="def:keyword" />
   <style name="html:tag" use-style="def:keyword" />
   <style name="html:title" use-style="text" />
 
